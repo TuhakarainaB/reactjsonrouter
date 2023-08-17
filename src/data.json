@@ -1,0 +1,17 @@
+[
+    {
+        "model": "K200",
+        "tagline": "A Trucking Icon",
+        "blurb": "The Kenworth K200 cab-over is the perfect choice when it comes to maximising your bottom line for B-Double applications. The K200 provides operators with exceptional productivity through Application Engineering, power and versatility. Simply put you can haul bigger loads with greater ease and efficiency."
+    },
+    {
+        "model": "T610",
+        "tagline": "New Experience in Trucking",
+        "blurb": "Supreme performance combined with comfort and safety make the T610 one of the most versatile trucks on or off the road."
+    },
+    {
+        "model": "T659",
+        "tagline": "A Machine for the Mean tasks.",
+        "blurb": "The T659 has the versatility and power to operate in applications ranging from general freight to logging, mining or livestock haulage, on or off the highway in single or multiple trailer configurations."
+    }
+]
